@@ -1,0 +1,37 @@
+[
+    {
+        "id": "3",
+        "name": "Rahul",
+        "department": "IT",
+        "salary": "60000",
+        "city": "Bangalore"
+    },
+    {
+        "id": "4",
+        "name": "Divya",
+        "department": "IT",
+        "salary": "75000",
+        "city": "Chennai"
+    },
+    {
+        "id": "5",
+        "name": "Karthik",
+        "department": "Finance",
+        "salary": "90000",
+        "city": "Mumbai"
+    },
+    {
+        "id": "6",
+        "name": "Meena",
+        "department": "Sales",
+        "salary": "52000",
+        "city": "Bangalore"
+    },
+    {
+        "id": "7",
+        "name": "Suresh",
+        "department": "IT",
+        "salary": "68000",
+        "city": "Chennai"
+    }
+]
